@@ -3,5 +3,5 @@ The analysis codes and data for Nari Kim et al. "Synapses from the high-order th
 
 
 
-trakem2_files
+[trakem2_files]
 This directory contains trakem2 project files for the skeleton tracing of 18 dendrites and the labels for synapses.
